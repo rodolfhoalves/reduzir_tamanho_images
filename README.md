@@ -1,1 +1,1 @@
-# reduzir_tamanho_images
+# Reduzir o tamanho das images
