@@ -2,8 +2,8 @@ import os
 from PIL import Image
 from os import listdir
 
-source_images_path = "/home/rodolfho/Pictures/images-para-reduzir/"
-destination_images_path = "/home/rodolfho/Pictures/images-para-reduzir/novas_images/"
+source_images_path = "/images-para-reduzir/"
+destination_images_path = "/images-para-reduzir/novas_images/"
 
 source_images_list  = listdir(source_images_path)
 
